@@ -1,1 +1,1 @@
-Example of [.gitlab-ci.yml](https://docs.gitlab.com/ee/ci/yaml/gitlab_ci_yaml.html) configuration for building docker containers with private [golang](https://go.dev/) modules that requires authorization.
+Example of [.gitlab-ci.yml](https://docs.gitlab.com/ee/ci/yaml/gitlab_ci_yaml.html) configuration for building docker containers with [private golang modules](https://go.dev/ref/mod#private-module-privacy) that requires authorization.
